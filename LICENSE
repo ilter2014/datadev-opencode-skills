@@ -1,40 +1,184 @@
-# DataDev OpenCode Skills License (DOSL) v1.0
+DATADEV OPENCODE SKILLS LICENSE (DOSL)
+Version 1.0 — 2026
 
-Copyright (c) 2026 DataDev
+Copyright (c) 2026 DataDev and the respective copyright holders.
 
-## 1. İzin Verilen Kullanım
+================================================================
+ENGLISH VERSION
+================================================================
 
-Bu depoda yayımlanan skill'ler, kişisel ve ticari projelerde ücretsiz olarak kullanılabilir. Kullanıcılar skill'leri kendi OpenCode ortamlarına kurabilir ve amaçlarına uygun şekilde çalıştırabilir.
+1. DEFINITIONS
 
-## 2. İzin Gerektiren İşlemler
+"Materials" means the skill files, instructions, documentation, examples, and other content distributed in this repository under this license.
 
-DataDev'in önceden alınmış yazılı izni olmadan aşağıdaki işlemlere izin verilmez:
+"Licensor" means DataDev and/or the copyright holder of the relevant Materials.
 
-- Skill dosyalarını değiştirmek veya değiştirilmiş sürümlerini yayımlamak ya da dağıtmak.
-- Skill dosyalarını başka bir depoda veya platformda yeniden yayımlamak ya da dağıtmak.
-- Bu depodaki skill'leri kopyalayarak türev bir paket oluşturmak ve dağıtmak.
-- Skill'leri veya değiştirilmiş sürümlerini DataDev'in resmî ürünüymüş gibi tanıtmak.
+"Maintainer" means the repository owner or a person explicitly authorized by the repository owner to maintain the official project.
 
-## 3. Katkılar ve Resmî Sürüm
+2. PERMITTED PERSONAL USE
 
-Katkı önerileri DataDev tarafından incelenebilir. Hiçbir katkı otomatik olarak kabul edilmez. Resmî depoya alınacak değişikliklere yalnızca yetkili depo yöneticisi karar verir.
+Subject to this license, the Licensor grants you a limited, non-exclusive, non-transferable, revocable permission to download and use the Materials in your own OpenCode environment for personal purposes.
 
-Bir katkı önerisinin gönderilmesi, katkının otomatik olarak kabul edildiği veya resmî sürüme dâhil edildiği anlamına gelmez.
+No fee is required for this permitted personal use.
 
-## 4. Atıf ve Marka
+This permission does not grant ownership of the Materials or any other intellectual property rights.
 
-DataDev adı, logosu ve resmî proje kimliği ayrı marka haklarına tabi olabilir. Bu lisans, söz konusu marka haklarını devretmez.
+3. MODIFICATION
 
-## 5. Garanti Reddi
+You may not modify, adapt, translate, or create derivative versions of the Materials without obtaining prior written permission from the Licensor.
 
-Skill'ler, yürürlükteki hukukun izin verdiği ölçüde, açık veya zımni herhangi bir garanti olmaksızın "olduğu gibi" sunulur. Kullanıcılar bunları kullanmanın sonuçlarından kendileri sorumludur.
+Any permission to modify the Materials must specify the scope of the permitted modifications.
 
-## 6. İzin Talepleri
+4. REDISTRIBUTION AND PUBLICATION
 
-Bu lisans kapsamında izin gerektiren işlemler için DataDev'in yetkili sahibinden önceden açık ve yazılı izin alınmalıdır.
+You may not redistribute, republish, mirror, sublicense, sell, bundle, or otherwise make the Materials available to third parties without prior written permission from the Licensor.
 
-## 7. Hakların Saklı Tutulması
+This restriction includes modified and unmodified copies, publication in other repositories, and distribution through other platforms.
 
-Bu lisansla açıkça verilen izinler dışında tüm haklar saklıdır.
+If written permission is granted, you must:
+- Preserve applicable copyright and license notices.
+- Clearly credit DataDev and identify the original repository.
+- Include a link to this license.
+- Comply with any additional written conditions attached to the permission.
 
-Lisans sürümü: 1.0
+Attribution alone does not constitute permission to redistribute.
+
+5. COMMERCIAL USE
+
+Commercial use, commercial redistribution, and incorporation of the Materials into products or services offered commercially require prior written permission from the Licensor.
+
+Personal use that is genuinely non-commercial remains subject to Section 2.
+
+6. OFFICIAL PROJECT AND CONTRIBUTIONS
+
+Only the repository owner and maintainers explicitly authorized by the repository owner may approve changes for inclusion in the official project.
+
+Submitting a suggestion or contribution does not guarantee acceptance or grant permission to redistribute the Materials.
+
+No person may claim that an independently modified or redistributed version is an official DataDev release without express authorization.
+
+7. COPYRIGHT AND RESERVED RIGHTS
+
+Except for the limited permissions expressly granted in this license, all rights are reserved by the applicable copyright holder.
+
+This license does not transfer copyright, trademark rights, or ownership of the Materials.
+
+Third-party components remain subject to their respective licenses. This license cannot override rights held by third parties.
+
+8. TERMINATION
+
+Permission under this license may terminate if you materially violate its terms, subject to applicable law. Upon termination, you must cease uses that are no longer authorized.
+
+Nothing in this section removes rights or remedies that cannot legally be waived or restricted.
+
+9. DISCLAIMER OF WARRANTY
+
+The Materials are provided "AS IS" and to the maximum extent permitted by applicable law, without warranties or conditions of any kind, whether express or implied.
+
+The Licensor does not warrant that the Materials are accurate, secure, uninterrupted, suitable for a particular purpose, or free from errors.
+
+10. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Licensor shall not be liable for indirect, incidental, special, consequential, or exemplary damages arising from the use of the Materials.
+
+Nothing in this license excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+11. APPLICABLE LAW
+
+This license shall be interpreted under the applicable law determined by the relevant conflict-of-law rules. Nothing in this license overrides mandatory legal protections or applicable statutory rights.
+
+12. CONTACT AND PERMISSIONS
+
+For written permission, commercial licensing, modification requests, or redistribution requests, contact the repository owner through the official contact method listed in the repository.
+
+================================================================
+TÜRKÇE SÜRÜM
+================================================================
+
+1. TANIMLAR
+
+"Materyaller"; bu depoda yayımlanan skill dosyalarını, talimatları, belgeleri, örnekleri ve diğer içerikleri ifade eder.
+
+"Lisans Veren"; DataDev'i ve/veya ilgili Materyallerin telif hakkı sahibini ifade eder.
+
+"Bakım Sorumlusu"; depo sahibini veya depo sahibi tarafından resmî projeyi yönetmek için açıkça yetkilendirilmiş kişiyi ifade eder.
+
+2. İZİN VERİLEN KİŞİSEL KULLANIM
+
+Bu lisansın koşullarına tabi olarak Lisans Veren, Materyalleri kendi OpenCode ortamında kişisel amaçlarla indirmen ve kullanman için sınırlı, münhasır olmayan, devredilemeyen ve bu lisans uyarınca sona erebilen bir kullanım izni verir.
+
+İzin verilen bu kişisel kullanım için ücret alınmaz.
+
+Bu izin, Materyallerin mülkiyetini veya başka bir fikrî mülkiyet hakkını devretmez.
+
+3. DEĞİŞİKLİK YAPMA
+
+Lisans Verenin önceden verilmiş yazılı izni olmadan Materyalleri değiştiremez, uyarlayamaz, çeviremez veya bunlardan türetilmiş sürümler oluşturamazsın.
+
+Değişiklik izni, izin verilen değişikliklerin kapsamını açıkça belirtmelidir.
+
+4. YENİDEN DAĞITIM VE YAYIMLAMA
+
+Lisans Verenin önceden verilmiş yazılı izni olmadan Materyalleri yeniden dağıtamaz, yeniden yayımlayamaz, başka bir yerde aynalayamaz, alt lisansla veremez, satamaz, başka paketlere ekleyemez veya üçüncü kişilerin erişimine sunamazsın.
+
+Bu kısıtlama; değiştirilmiş ve değiştirilmemiş kopyaları, başka depolarda yayımlamayı ve diğer platformlarda dağıtmayı da kapsar.
+
+Yazılı izin verilmesi hâlinde şu koşullara uyulmalıdır:
+- Geçerli telif ve lisans bildirimleri korunmalıdır.
+- DataDev'e ve orijinal depoya açıkça atıf yapılmalıdır.
+- Bu lisansın bağlantısı eklenmelidir.
+- İzinle birlikte bildirilen diğer yazılı koşullara uyulmalıdır.
+
+Tek başına atıf yapmak, yeniden dağıtım izni anlamına gelmez.
+
+5. TİCARİ KULLANIM
+
+Materyallerin ticari amaçla kullanılması, ticari olarak yeniden dağıtılması veya ticari ürün ve hizmetlere dâhil edilmesi için Lisans Verenden önceden yazılı izin alınmalıdır.
+
+Gerçek anlamda ticari olmayan kişisel kullanım, 2. bölümdeki koşullara tabidir.
+
+6. RESMÎ PROJE VE KATKILAR
+
+Değişikliklerin resmî projeye alınmasını yalnızca depo sahibi ve depo sahibi tarafından açıkça yetkilendirilmiş bakım sorumluları onaylayabilir.
+
+Bir öneri veya katkı göndermek, katkının kabul edileceği anlamına gelmez ve Materyalleri yeniden dağıtma izni vermez.
+
+Açık yetki olmadan bağımsız biçimde değiştirilmiş veya yeniden dağıtılmış bir sürüm, resmî DataDev sürümü olarak tanıtılamaz.
+
+7. TELİF HAKLARI VE SAKLI TUTULAN HAKLAR
+
+Bu lisansla açıkça verilen sınırlı izinler dışında tüm haklar ilgili telif hakkı sahibinde saklıdır.
+
+Bu lisans, telif hakkını, marka haklarını veya Materyallerin mülkiyetini devretmez.
+
+Üçüncü taraf bileşenleri kendi lisanslarına tabidir. Bu lisans, üçüncü tarafların sahip olduğu hakları geçersiz kılamaz.
+
+8. İZNİN SONA ERMESİ
+
+Bu lisans kapsamındaki izin, koşulların esaslı biçimde ihlal edilmesi durumunda yürürlükteki hukukun izin verdiği ölçüde sona erebilir. İznin sona ermesi hâlinde artık yetkilendirilmemiş kullanımlar durdurulmalıdır.
+
+Bu bölüm, kanunen kaldırılamayan veya sınırlandırılamayan hakları ya da hukuki başvuru yollarını ortadan kaldırmaz.
+
+9. GARANTİ REDDİ
+
+Materyaller, yürürlükteki hukukun izin verdiği azami ölçüde, açık veya zımni herhangi bir garanti ya da koşul olmaksızın "OLDUĞU GİBİ" sunulur.
+
+Lisans Veren; Materyallerin doğru, güvenli, kesintisiz, belirli bir amaca uygun veya hatasız olduğunu garanti etmez.
+
+10. SORUMLULUĞUN SINIRLANDIRILMASI
+
+Yürürlükteki hukukun izin verdiği azami ölçüde Lisans Veren, Materyallerin kullanımından kaynaklanan dolaylı, arızi, özel, sonuçsal veya örnek teşkil eden zararlardan sorumlu tutulamaz.
+
+Bu lisansın hiçbir hükmü, yürürlükteki hukukun yasakladığı sorumluluk istisnalarını veya sınırlamalarını geçerli kılmaz.
+
+11. UYGULANACAK HUKUK
+
+Bu lisans, ilgili kanunlar ihtilafı kurallarının belirlediği uygulanabilir hukuka göre yorumlanır. Lisansın hiçbir hükmü, emredici hukuk kurallarını veya kanundan doğan hakları geçersiz kılmaz.
+
+12. İLETİŞİM VE İZİN TALEPLERİ
+
+Yazılı izin, ticari lisans, değişiklik veya yeniden dağıtım talepleri için depoda belirtilen resmî iletişim yöntemini kullanarak depo sahibiyle iletişime geçilmelidir.
+
+================================================================
+END OF LICENSE
+================================================================
